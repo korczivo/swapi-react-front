@@ -31,7 +31,7 @@ Now project is running here: http://localhost:3000/
 
 ## Deploy
 
-<a href="https://swapi-react-front.pages.dev/" target="_blank"> Demo here </a>
+<a href="https://swapi-react-front.vercel.app/" target="_blank"> Demo here </a>
 
 ## How game works?
 
